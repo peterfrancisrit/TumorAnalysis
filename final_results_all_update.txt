@@ -1,0 +1,224 @@
+FULL FINAL RESULTS 
+
+
+--------&&&&&&&&&&&&&&--------
+N_COMPONENTS = 30 
+
+
+---------------------------------
+CLASS REPORT DeepNet2:
+              precision    recall  f1-score   support
+
+           0       0.97      0.98      0.97       622
+           1       0.90      0.85      0.88       140
+
+    accuracy                           0.96       762
+   macro avg       0.93      0.91      0.92       762
+weighted avg       0.95      0.96      0.95       762
+
+
+AUC REPORT DeepNet2:
+0.9726688102893891
+
+TIME DeepNet2 : 286.315190367
+
+---------------------------------
+CLASS REPORT DeepNet3:
+              precision    recall  f1-score   support
+
+           0       0.94      0.98      0.96       622
+           1       0.88      0.71      0.79       140
+
+    accuracy                           0.93       762
+   macro avg       0.91      0.85      0.87       762
+weighted avg       0.93      0.93      0.93       762
+
+
+AUC REPORT DeepNet3:
+0.9634474046853467
+
+TIME DeepNet2 : 6.570738862999974
+
+---------------------------------
+CLASS REPORT Logistic Regression CW 2, L2:
+              precision    recall  f1-score   support
+
+           0       0.95      0.93      0.94       622
+           1       0.72      0.76      0.74       140
+
+    accuracy                           0.90       762
+   macro avg       0.83      0.85      0.84       762
+weighted avg       0.90      0.90      0.90       762
+
+
+AUC REPORT Logistic Regression CW 2, L2:
+0.8483807992650436
+
+TIME DeepNet2 : 0.01681900799999969
+
+---------------------------------
+N_COMPONENTS = 40 
+
+
+---------------------------------
+CLASS REPORT DeepNet2:
+              precision    recall  f1-score   support
+
+           0       0.96      0.96      0.96       622
+           1       0.84      0.84      0.84       140
+
+    accuracy                           0.94       762
+   macro avg       0.90      0.90      0.90       762
+weighted avg       0.94      0.94      0.94       762
+
+
+AUC REPORT DeepNet2:
+0.9699012402388608
+
+TIME DeepNet2 : 214.13112692700003
+
+---------------------------------
+CLASS REPORT DeepNet3:
+              precision    recall  f1-score   support
+
+           0       0.95      0.97      0.96       622
+           1       0.87      0.79      0.82       140
+
+    accuracy                           0.94       762
+   macro avg       0.91      0.88      0.89       762
+weighted avg       0.94      0.94      0.94       762
+
+
+AUC REPORT DeepNet3:
+0.9753445107946715
+
+TIME DeepNet2 : 8.597182412000052
+
+---------------------------------
+CLASS REPORT Logistic Regression CW 2, L2:
+              precision    recall  f1-score   support
+
+           0       0.95      0.95      0.95       622
+           1       0.77      0.79      0.78       140
+
+    accuracy                           0.92       762
+   macro avg       0.86      0.87      0.87       762
+weighted avg       0.92      0.92      0.92       762
+
+
+AUC REPORT Logistic Regression CW 2, L2:
+0.8699012402388607
+
+TIME DeepNet2 : 0.018790622999972584
+
+---------------------------------
+N_COMPONENTS = 50 
+
+
+---------------------------------
+CLASS REPORT DeepNet2:
+              precision    recall  f1-score   support
+
+           0       0.97      0.98      0.97       622
+           1       0.89      0.84      0.87       140
+
+    accuracy                           0.95       762
+   macro avg       0.93      0.91      0.92       762
+weighted avg       0.95      0.95      0.95       762
+
+
+AUC REPORT DeepNet2:
+0.9737712448323381
+
+TIME DeepNet2 : 259.19417339899996
+
+---------------------------------
+CLASS REPORT DeepNet3:
+              precision    recall  f1-score   support
+
+           0       0.96      0.97      0.96       622
+           1       0.85      0.83      0.84       140
+
+    accuracy                           0.94       762
+   macro avg       0.91      0.90      0.90       762
+weighted avg       0.94      0.94      0.94       762
+
+
+AUC REPORT DeepNet3:
+0.9794671566375746
+
+TIME DeepNet2 : 9.203581371999917
+
+---------------------------------
+CLASS REPORT Logistic Regression CW 2, L2:
+              precision    recall  f1-score   support
+
+           0       0.97      0.95      0.96       622
+           1       0.78      0.86      0.82       140
+
+    accuracy                           0.93       762
+   macro avg       0.87      0.90      0.89       762
+weighted avg       0.93      0.93      0.93       762
+
+
+AUC REPORT Logistic Regression CW 2, L2:
+0.9012402388608176
+
+TIME DeepNet2 : 0.023913233000030232
+
+---------------------------------
+N_COMPONENTS = 60 
+
+
+---------------------------------
+CLASS REPORT DeepNet2:
+              precision    recall  f1-score   support
+
+           0       0.98      0.96      0.97       622
+           1       0.85      0.90      0.88       140
+
+    accuracy                           0.95       762
+   macro avg       0.91      0.93      0.92       762
+weighted avg       0.95      0.95      0.95       762
+
+
+AUC REPORT DeepNet2:
+0.9833945796968305
+
+TIME DeepNet2 : 230.07135082399986
+
+---------------------------------
+CLASS REPORT DeepNet3:
+              precision    recall  f1-score   support
+
+           0       0.97      0.97      0.97       622
+           1       0.85      0.88      0.87       140
+
+    accuracy                           0.95       762
+   macro avg       0.91      0.92      0.92       762
+weighted avg       0.95      0.95      0.95       762
+
+
+AUC REPORT DeepNet3:
+0.9831419384474046
+
+TIME DeepNet2 : 11.823642068000026
+
+---------------------------------
+CLASS REPORT Logistic Regression CW 2, L2:
+              precision    recall  f1-score   support
+
+           0       0.98      0.95      0.96       622
+           1       0.81      0.89      0.85       140
+
+    accuracy                           0.94       762
+   macro avg       0.89      0.92      0.91       762
+weighted avg       0.94      0.94      0.94       762
+
+
+AUC REPORT Logistic Regression CW 2, L2:
+0.9223128158015618
+
+TIME DeepNet2 : 0.03208689500002038
+
+---------------------------------

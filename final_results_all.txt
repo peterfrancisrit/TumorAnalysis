@@ -1,0 +1,76 @@
+FULL FINAL RESULTS 
+
+
+--------&&&&&&&&&&&&&&--------
+N_COMPONENTS = All 
+
+
+---------------------------------
+CLASS REPORT DeepNet2:
+              precision    recall  f1-score   support
+
+           0       0.96      0.95      0.95       622
+           1       0.78      0.82      0.80       140
+
+    accuracy                           0.92       762
+   macro avg       0.87      0.88      0.88       762
+weighted avg       0.93      0.92      0.92       762
+
+
+AUC REPORT DeepNet2:
+0.9698208543867708
+
+TIME DeepNet2 : 210.079056331
+
+---------------------------------
+CLASS REPORT DeepNet3:
+              precision    recall  f1-score   support
+
+           0       0.98      0.97      0.98       622
+           1       0.87      0.92      0.90       140
+
+    accuracy                           0.96       762
+   macro avg       0.93      0.95      0.94       762
+weighted avg       0.96      0.96      0.96       762
+
+
+AUC REPORT DeepNet3:
+0.9876320624712908
+
+TIME DeepNet2 : 40.50130540400002
+
+---------------------------------
+CLASS REPORT Logistic Regression CW 2, L2:
+              precision    recall  f1-score   support
+
+           0       0.98      0.98      0.98       622
+           1       0.90      0.91      0.90       140
+
+    accuracy                           0.96       762
+   macro avg       0.94      0.95      0.94       762
+weighted avg       0.96      0.96      0.96       762
+
+
+AUC REPORT Logistic Regression CW 2, L2:
+0.9450849793293523
+
+TIME DeepNet2 : 0.9796260399999994
+
+---------------------------------
+CLASS REPORT SVM:
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       622
+           1       0.95      0.96      0.95       140
+
+    accuracy                           0.98       762
+   macro avg       0.97      0.97      0.97       762
+weighted avg       0.98      0.98      0.98       762
+
+
+AUC REPORT SVM:
+0.9729444189251264
+
+TIME DeepNet2 : 1.9057399210000003
+
+---------------------------------
